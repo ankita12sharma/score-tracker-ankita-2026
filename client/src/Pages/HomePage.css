@@ -1,0 +1,42 @@
+.home-layout {
+  display: flex;
+}
+
+.main-section {
+  margin-left: 260px;
+  width: calc(100% - 260px);
+}
+
+.top-bar {
+  height: 60px;
+  background: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.welcome-text {
+  font-size: 16px;
+}
+
+.logout-btn {
+  background: #ef4444;
+  border: none;
+  padding: 8px 14px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background: #dc2626;
+}
+
+.home-content {
+  padding: 30px;
+}
