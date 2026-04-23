@@ -52,10 +52,11 @@ The Score for Good App Dashboard is a full-stack web application developed to ma
 <img width="509" height="401" alt="LoginForm" src="https://github.com/user-attachments/assets/6390ebae-5f1f-4c27-8a25-79443ea11b62" />
 
 ### 📊 Dashboard
-<img width="1920" height="917" alt="DasboardImg" src="https://github.com/user-attachments/assets/08a6472c-1529-40e6-9829-b556355566c8" />
+<img width="1878" height="899" alt="DasboardImg" src="https://github.com/user-attachments/assets/33d29690-beee-45ac-bba2-6628fbd69c2d" />
 
 ### 📈 Dashboard (Charts View)
-<img width="1920" height="1080" alt="DashboardImg(2)" src="https://github.com/user-attachments/assets/489e5720-488b-4234-8c0e-c5881d8a8689" />
+<img width="1900" height="892" alt="DashboardImg(2)" src="https://github.com/user-attachments/assets/4b01c026-efbf-4fa4-9897-a40e24cb7f75" />
+
 
 
 ![Dashboard](screenshot.png)
