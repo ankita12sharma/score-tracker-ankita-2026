@@ -49,7 +49,7 @@ function LoginForm() {
       }
 
       console.log("STORED USER:", user);
-      handleSuccess("Login successful!!");
+      handleSuccess("Login successfull!!");
 
       setTimeout(() => {
         navigate("/home");

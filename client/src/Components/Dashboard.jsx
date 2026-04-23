@@ -143,8 +143,8 @@ const Dashboard = () => {
           },
         }}
       >
-        <Typography sx={{ p: 2, fontSize: "28px", fontWeight: "bold" }}>
-          Golf App
+        <Typography sx={{ p: 2, fontSize: "22px", fontWeight: "bold" }}>
+          Score For Good App
         </Typography>
 
         <List>
