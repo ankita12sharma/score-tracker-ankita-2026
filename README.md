@@ -59,8 +59,6 @@ The Score for Good App Dashboard is a full-stack web application developed to ma
 
 
 
-![Dashboard](screenshot.png)
-
 ---
 
 ## ▶️ Installation & Setup
